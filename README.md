@@ -1,4 +1,5 @@
 test-repo
 =========
 
-Test repository for testing github functionality
+Experimental repository for testing various github techniques,
+functionalities, scenarios and workflows.
